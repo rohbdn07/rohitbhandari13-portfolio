@@ -3,7 +3,6 @@
      padding-top: 40px;
      padding-bottom: 70px;
      background: #e7e2e280;
-     min-height: 300px;
  }
  
  .services h1 {
@@ -16,6 +15,7 @@
      background: #7777773d;
      padding: 10px;
      margin-top: 20px;
+     min-height: 300px;
      border-top-right-radius: 50px;
      border-bottom-left-radius: 50px;
      text-decoration: none;
